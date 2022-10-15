@@ -1,0 +1,24 @@
+.nav {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 1024px;
+  border-radius: 12px;
+  background-color: rgb(236, 236, 236);
+}
+
+.nav__list {
+  list-style: none;
+  padding: 20px 0;
+}
+
+.nav__anchor {
+  color: rgb(0, 0, 0);
+  margin: 0 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.nav__anchor:hover {
+ text-shadow: -1px -1px 5px;
+ transition: 0.5s;
+}

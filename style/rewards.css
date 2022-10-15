@@ -1,0 +1,20 @@
+.rewards {
+  overflow-x: auto;
+}
+
+.rewards__table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.rewards__cell {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 8px 5px;
+  font-weight: normal;
+}
+
+.rewards__cell--header {
+  background-color: rgba(0, 0, 0, 0.572);
+  padding: 18px 0;
+  color: white;
+}
