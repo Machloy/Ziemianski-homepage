@@ -2,7 +2,7 @@
 # Repetition of exercises for the YouCode course
 Hello there! I repeat the exercise after a short break. I will be grateful for any feedback and I am asking for your understanding.
 
-Link to website: [Homepage](https://machloy.github.io/Ziemianski-Homepage/)
+Link to website: [Homepage](https://machloy.github.io/Ziemianski-homepage/)
 
 # Description
 I decided to dedicate this page to my favorite fantasy author. Have a nice watching.
